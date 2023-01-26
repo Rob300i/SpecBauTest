@@ -1,2 +1,0 @@
-# SpecBauTest
-Coursera test depository
